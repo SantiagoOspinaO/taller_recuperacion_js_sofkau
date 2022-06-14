@@ -34,6 +34,7 @@ body {
 }
 
 #line {
+    z-index: 1;
     width: 50%;
     border-right: #fff dashed 5px;
     height: 100%;
